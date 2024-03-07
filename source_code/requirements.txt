@@ -1,0 +1,14 @@
+beautifulsoup4
+matplotlib
+matplotlib-inline
+numpy
+numpydoc
+pandas
+pipreqs
+plotly
+requests
+requests-file
+requests-oauthlib
+rsconnect_python
+shiny
+shinywidgets
